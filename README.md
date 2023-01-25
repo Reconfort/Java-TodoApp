@@ -1,15 +1,16 @@
 # Java-TodoApp
 Java Todo App with Mysql Full Stack Project , JSP and Servlet 
 
-                                                                  TODO-APP
-                                                       ___________________________________
+    WHAT IS TODO-APP
+___________________________________
 
 What is todo-app: is an application that helps users to create, manage, and track tasks or activities that need to be completed. These apps include features such as the ability to create task lists, set reminders, and mark tasks as complete. They can be used for personal or professional tasks, and are often available for a variety of platforms, such as web, mobile, and desktop.
 
                                                                
-                                                               
-                                                               Why todo-app:
-                                                       ____________________________________
+                                                  
+
+    WHY TODO-APP
+____________________________________
 
 There are several reasons why user might use a to-do app:
 
